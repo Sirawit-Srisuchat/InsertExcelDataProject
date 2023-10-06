@@ -1,0 +1,14 @@
+D:\c#\Test\saveText_to_Excel\saveText_to_Excel\bin\Debug\saveText_to_Excel.exe.config
+D:\c#\Test\saveText_to_Excel\saveText_to_Excel\bin\Debug\saveText_to_Excel.exe
+D:\c#\Test\saveText_to_Excel\saveText_to_Excel\bin\Debug\saveText_to_Excel.pdb
+D:\c#\Test\saveText_to_Excel\saveText_to_Excel\bin\Debug\EPPlus.dll
+D:\c#\Test\saveText_to_Excel\saveText_to_Excel\bin\Debug\EPPlus.Interfaces.dll
+D:\c#\Test\saveText_to_Excel\saveText_to_Excel\bin\Debug\EPPlus.System.Drawing.dll
+D:\c#\Test\saveText_to_Excel\saveText_to_Excel\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\c#\Test\saveText_to_Excel\saveText_to_Excel\bin\Debug\EPPlus.xml
+D:\c#\Test\saveText_to_Excel\saveText_to_Excel\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\c#\Test\saveText_to_Excel\saveText_to_Excel\obj\Debug\saveText_to_Excel.csproj.AssemblyReference.cache
+D:\c#\Test\saveText_to_Excel\saveText_to_Excel\obj\Debug\saveText_to_Excel.csproj.CoreCompileInputs.cache
+D:\c#\Test\saveText_to_Excel\saveText_to_Excel\obj\Debug\saveText_to_Excel.csproj.CopyComplete
+D:\c#\Test\saveText_to_Excel\saveText_to_Excel\obj\Debug\saveText_to_Excel.exe
+D:\c#\Test\saveText_to_Excel\saveText_to_Excel\obj\Debug\saveText_to_Excel.pdb
